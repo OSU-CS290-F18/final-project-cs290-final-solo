@@ -1,4 +1,4 @@
-# final-project-final-project-a-j
+# final-project-cs290-final-solo
 # Josh Finkbeiner
 # GrahmCracker
 
