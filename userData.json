@@ -1,0 +1,125 @@
+{
+   "trump": {
+      "name": "Donald Trump",
+      "profile-pic": "https://i2.wp.com/www.route66news.com/wp-content/uploads/2017/02/President-Donald-Trump-min.jpg?resize=500%2C300",
+      "posts":[
+      {
+	 "url": "http://freshwallpapers.net/imagecache/thumbnails/11072/250x150.png",
+         "description": "What separates the winners from the losers is how a person reacts to each new twist of fate."
+      },   
+      {
+	 "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQm6YlBgixjIqNehvYRB6on0nhiBgLRGLBCV3yBsp3rE59WoHV0Q",
+         "description": "Everything in life is luck."
+      },     
+      {
+	 "url": "http://freshwallpapers.net/imagecache/thumbnails/11074/250x150.png",
+         "description": "You have to think anyway, so why not think big?"
+      }, 
+      {
+	 "url": "http://www.jpmsportsertainment.com/wp-content/themes/Canyon/timthumb.php?src=http://www.jpmsportsertainment.com/wp-content/uploads/2016/05/trump.png&h=150&w=250&zc=1",
+         "description": "Sometimes by losing a battle you find a new way to win the war."
+      }, 
+      {
+	 "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3w-I9nByv_DQjfToC5VVV5YhlIyHVuDfZVmzmR1VL8soHqf2Pug",
+         "description": "It's tangible, it's solid, it's beautiful. It's artistic, from my standpoint, and I just love real estate."
+      }, 
+      {
+	 "url": "http://thebronxchronicle.com/wp-content/uploads/2016/03/Doanld-J-Trump-250x150.jpg",
+         "description": "Part of being a winner is knowing when enough is enough. Sometimes you have to give up the fight and walk away, and move on to something that's more productive."
+      } 
+   ]
+   },
+   
+   "kanye": {
+      "name": "Kanye West",
+      "profile-pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWm4uNu8SAK6rkvq2EsEjrLl5YK2p9gajzz9AkPeL77Nrp3fn-CQ",
+      "posts":[
+      {
+	 "url": "https://instrumentalfx.co/wp-content/uploads/2017/10/Kanye-West-Real-Friend-250x150.jpg",
+         "description": "My greatest pain in life is that I will never be able to see myself perform live."
+      },   
+      {
+	 "url": "http://hiphopflava.net/images/artist_us/kanye-west.jpg",
+         "description": "Nothing in life is promised except death."
+      },     
+      {
+	 "url": "https://www.gossipcop.com/wp-content/uploads/2017/06/Kim-Kardashian-Fake-Split-Stories-250x150.jpg",
+         "description": "We all self-conscious. I'm just the first to admit it."
+      }, 
+      {
+	 "url": "https://earmilk.com/wp-content/uploads/2011/01/kanye2-1.jpg",
+         "description": "My music isnâ€™t just music â€” itâ€™s medicine."
+      }, 
+      {
+	 "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_PrOM29SjP8U0tBz4HfgECKlssIIXn8Si15VRvXmVE5jP971TJQ",
+         "description": "I know I got angels watching me from the other side."
+      }, 
+      {
+	 "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGhXyTxgA0XKlEsrHrdJSPWlWdz7ExX3tL7PVCbvsg08KNxcseg",
+         "description": "I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."
+      } 
+   ]
+   },
+
+   "bill": {
+      "name": "Bill Gates",
+      "profile-pic": "http://i.dawn.com/medium/2018/01/5a5c1e4985edb.jpg",
+      "posts":[
+      {
+	 "url": "http://raredelights.com/wp-content/uploads/2013/05/Bill-Gates-is-Once-Again-The-Worlds-Richest-Man-1-250x150.jpg",
+         "description": "Your most unhappy customers are your greatest source of learning."
+      },   
+      {
+	 "url": "http://www.4-traders.com/mods_a/graph/resize.php?w=250&h=150&f=/images/barons/bill_gates_biographie.jpg&strict=1",
+         "description": "Life is not fair; get used to it."
+      },     
+      {
+	 "url": "http://raredelights.com/wp-content/uploads/2013/09/Bill-Gates-250x150.jpg",
+         "description": "Success is a lousy teacher. It seduces smart people into thinking they can't lose."
+      }, 
+      {
+	 "url": "http://raredelights.com/wp-content/uploads/2014/09/Bill-Gates-250x150.jpg",
+         "description": "It's fine to celebrate success but it is more important to heed the lessons of failure."
+      }, 
+      {
+	 "url": "https://s.hswstatic.com/gif/technologists-benefit-2.jpg",
+         "description": "As we look ahead into the next century, leaders will be those who empower others."
+      }, 
+      {
+	 "url": "://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/07/11/105322791-1531301768595gettyimages-467620670.1910x1000.jpg",
+         "description": "If you can't make it good, at least make it look good"
+      } 
+   ]
+   },
+
+   "elon": {
+      "name": "Elon Musk",
+      "profile-pic": "http://i.dawn.com/medium/2017/03/58d9f89745239.jpg",
+      "posts":[
+      {
+	 "url": "http://www.4-traders.com/mods_a/graph/resize.php?w=250&h=150&f=/images/barons/elon_musk_biographie.jpg&strict=1",
+         "description": "When something is important enough, you do it even if the odds are not in your favor."
+      },   
+      {
+	 "url": "https://www.rednewswire.com/wp-content/uploads/2016/07/elon-musk1-250x150.jpg",
+         "description": "When Henry Ford made cheap, reliable cars, people said, 'Nah, what's wrong with a horse?' That was a huge bet he made, and it worked."
+      },     
+      {
+	 "url": "https://clipset.20minutos.es/wp-content/uploads/2015/02/elon-musk-tesla-250x150.jpg",
+         "description": "Persistence is very important. You should not give up unless you are forced to give up."
+      }, 
+      {
+	 "url": "https://clipset.20minutos.es/wp-content/uploads/2016/06/elon-musk-code-conference-250x150.jpg",
+         "description": "It's OK to have your eggs in one basket as long as you control what happens to that basket."
+      }, 
+      {
+	 "url": "https://monstar-lab.com/sg/wp-content/uploads/sites/10/2017/07/ashlee_vance_elon_musk_1-250x150.jpg",
+         "description": "We're going to make it happen. As God is my bloody witness, I'm hell-bent on making it work."
+      }, 
+      {
+	 "url": "https://i1.wp.com/clipset.20minutos.es/wp-content/uploads/2018/02/tesla-roadster-tierra-spacex.jpg?resize=250%2C150&ssl=1",
+         "description": "The first step is to establish that something is possible; then probability will occur."
+      } 
+   ]
+   }
+}

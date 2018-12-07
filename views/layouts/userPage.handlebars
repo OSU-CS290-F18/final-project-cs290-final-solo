@@ -1,0 +1,54 @@
+CTYPE html>
+<html>
+   <head>
+
+      <meta charset="utf-8">
+      <title>GrahmKracker</title>
+
+      <link href="https://fonts.googleapis.com/css?family=Quattrocento+Sans" rel="stylesheet">
+
+      <link rel="stylesheet" href="profile.css" media="screen">
+
+      <script src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" defer></script>
+
+      <script src="profile.js" charset="utf-8" defer></script>
+
+   </head>
+
+
+   <body>
+
+      {{{body}}}
+
+      <button type="button" id="create-profile-button"><i class="fas fa-plus-square"></i></button>
+
+      <div id="modal-backdrop" class="hidden"></div>
+      <div id="create-profile-modal" class="hidden">
+         <div class="modal-dialog">
+
+            <div class="modal-header">
+               <h3>Create a post</h3>
+               <button type="button" class="modal-close-button">&times;</button>
+            </div>
+
+            <div class="modal-body">
+               <div class="profile-input-element">
+                  <label for="profile-picture-input">Picture Url</label>
+                  <textarea id="profile-picture-input"></textarea>
+               </div>
+               <div class="profile-input-element">
+                  <label for="profile-name-input">Description</label>
+                  <input type="text" id="profile-name-input">
+               </div>
+            </div>
+
+            <div class="modal-footer">
+               <button type="button" class="modal-cancel-button">Cancel</button>
+               <button type="button" class="modal-accept-button">Create profile</button>
+            </div>
+         </div>
+      </div>
+
+   </body>
+
+</html>

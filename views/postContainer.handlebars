@@ -1,0 +1,15 @@
+<main class="post-container">
+
+   <article class="profile-main">
+      <div class="main-content">
+         <image class="profile-picture-main" src="{{profile-pic}}" />
+      <p class="descripion">
+         {{name}}
+      </p>
+      </div>
+   </article>
+
+   {{#each posts}}
+      {{> userPost}}
+   {{/each}}
+</main>

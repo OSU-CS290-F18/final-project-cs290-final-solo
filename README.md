@@ -1,2 +1,4 @@
-CS 290 Final
-Joshua Finkbeiner
+# final-project-final-project-a-j
+# Josh Finkbeiner
+# GrahmCracker
+
